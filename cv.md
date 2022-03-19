@@ -35,7 +35,7 @@ industry I work for.
 
 Kata from Codewars: In this kata I'm creating a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
 
-'''
+```
 function filter_list(l) {
 
   // Return a new arrafunction
@@ -45,7 +45,8 @@ function filter_list(l) {
 
 console.log(filter_list([1,2,'aasf','1','123',123]));
 
-'''
+```
+
 
 # Education <h2>
 
@@ -61,6 +62,8 @@ Prototypes:
 [rsschool-cv](https://hexlet.io)
 
 [Simple landing page](https://mukhiddin21.github.io/pennovate/)
+
+
 # Languages <h2>
 
 - English - B1 
