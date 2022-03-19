@@ -53,7 +53,6 @@ BSc (Hons) In Information Technology with specialism In Business information Sys
 2017 – 2020
 
 # Experience <h2>
-
 Don't have a real world experience yet.
 
 Prototypes:
@@ -61,8 +60,8 @@ Prototypes:
 [rsschool-cv](https://hexlet.io)
 
 [Simple landing page](https://mukhiddin21.github.io/pennovate/)
+ 
 # Languages <h2>
-
 - English - B1 
 - Russion - B1 
 - Uzbek - Native
