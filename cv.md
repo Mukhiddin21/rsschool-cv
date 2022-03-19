@@ -60,7 +60,7 @@ Prototypes:
 
 [rsschool-cv](https://hexlet.io)
 
-[Simple landing page](https://hexlet.io)
+[Simple landing page](https://mukhiddin21.github.io/pennovate/)
 # Languages <h2>
 
 - English - B1 
