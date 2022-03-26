@@ -1,4 +1,5 @@
 
+
 # **Mukhiddin Khamdamov**
 **Junior Frontend Developer** 
 
@@ -63,5 +64,4 @@ Prototypes:
 - English - B1 
 - Russion - B1 
 - Uzbek - Native
-
 
