@@ -62,6 +62,6 @@ Prototypes:
 ## Languages 
 - English - B1 
 - Russion - B1 
-- Uzbek - Native
+- Uzbek - Native lamguage
 
 
