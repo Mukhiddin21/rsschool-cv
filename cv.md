@@ -1,17 +1,15 @@
 
-# [rsschool-cv](https://hexlet.io) <h2>
-
 # **Mukhiddin Khamdamov**
-**Junior Frontend Developer** <h1>
+**Junior Frontend Developer** 
 
-# Contact information:<h2>
+## Contact information:
 
 - **Location:** Uzbekistan, Andijan
 - **Phone:** +998 99 142-00-21
 - **Email:** mukhiddin21@gmail.com
 - **GitHub:** [@Mukhiddin21](https://github.com/Mukhiddin21/rsschool-cv/tree/gh-pages)
 
-# About Me<h2>
+## About Me
 
  Hi! I'm 24, and I have finished the Asia Pacific University of Technology & Innovation. Having 
 achieved good grades at univercity, I am keen to pursue a career in the IT industry. I have a 
@@ -23,15 +21,15 @@ My eventual career goal is to assume responsibility for the analysis and impleme
 skills which I have learnt at university and actively contribute to the overall success of any IT 
 industry I work for.
 
-# Skills and Proficiency: <h2>
+## Skills and Proficiency:
 
-- HTML5, CSS/SASS
+- HTML5, CSS3/SASS/SCSS
 - JavaScript (Basic)
 - C#
 - VS Code
-- Adobe Photoshop, Illustrator, InDesign
+- Adobe Photoshop, Illustrator, Lightroom
 
-# Code Example <h2>
+## Code Example
 
 Kata from Codewars: In this kata I'm creating a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
 
@@ -48,22 +46,20 @@ console.log(filter_list([1,2,'aasf','1','123',123]));
 ```
 
 
-# Education <h2>
+## Education
 
 BSc (Hons) In Information Technology with specialism In Business information Systems.
 2017 – 2020
 
-# Experience <h2>
+## Experience 
 Don't have a real world experience yet.
 
 Prototypes:
 
-[rsschool-cv](https://hexlet.io)
-
 [Simple landing page](https://mukhiddin21.github.io/pennovate/)
 
 
-# Languages <h2>
+## Languages 
 - English - B1 
 - Russion - B1 
 - Uzbek - Native
